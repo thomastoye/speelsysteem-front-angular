@@ -1,5 +1,5 @@
 {
-  "name": "speelsysteem-frond",
+  "name": "speelsysteem-front-angular",
   "description": "A front-end for a playground management application",
   "version": "2.0.0-alpha",
   "homepage": "https://github.com/angular/angular-seed",
@@ -16,9 +16,6 @@
     "angular-messages": "~1.4.0",
     "angular-i18n": "~1.4.0",
 
-    "angular-route": "~1.4.0",
-    "angular-loader": "~1.4.0",
-    "angular-mocks": "~1.4.0",
-    "html5-boilerplate": "~5.2.0"
+    "requirejs": "2.1.18"
   }
 }
